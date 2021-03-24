@@ -1,3 +1,10 @@
-*{
-    color: aquamarine;
+body {
+   padding: 0   ;
+   margin-top: 20px;
+   
+}
+.hello {
+    display: flex;
+    justify-items: center;
+    color: blue;
 }
